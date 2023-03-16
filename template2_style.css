@@ -1,0 +1,24 @@
+
+@keyframes color-change-index {
+    from {background-color: chocolate;}
+    to {background-color: white;}
+}
+
+body {
+    background-color: white;
+    animation-name: color-change-index;
+    animation-duration: 7s;
+}
+
+a {
+    text-decoration: none;
+    color:antiquewhite;
+}
+
+img {
+    width: 50%;
+    display: block;
+    margin-top: 60px;
+    margin-left: auto;
+    margin-right: auto;
+}
